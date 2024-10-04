@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/e-yantra/t1a_fs_pwm/simulation/modelsim
+vfrequency_scaler
+Z1 !s110 1728015939
+!i10b 1
+!s100 >I>Q4]JiagGkj2PoYBMgj3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IPV9IV3h=EfLRjYTJB7D^C1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1728015865
+8D:/e-yantra/t1a_fs_pwm/code/frequency_scaler.v
+FD:/e-yantra/t1a_fs_pwm/code/frequency_scaler.v
+!i122 2
+L0 20 25
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1728015939.000000
+!s107 D:/e-yantra/t1a_fs_pwm/code/frequency_scaler.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/e-yantra/t1a_fs_pwm/code|D:/e-yantra/t1a_fs_pwm/code/frequency_scaler.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+D:/e-yantra/t1a_fs_pwm/code
+Z8 tCvgOpt 0
+vpwm_generator
+R1
+!i10b 1
+!s100 EfnDQ66?@]_`eiG]5kI2K0
+R2
+IS5e=HC<JC?XbKP9RALN?h0
+R3
+R0
+w1728015909
+8D:/e-yantra/t1a_fs_pwm/code/pwm_generator.v
+FD:/e-yantra/t1a_fs_pwm/code/pwm_generator.v
+!i122 1
+L0 19 45
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/e-yantra/t1a_fs_pwm/code/pwm_generator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/e-yantra/t1a_fs_pwm/code|D:/e-yantra/t1a_fs_pwm/code/pwm_generator.v|
+!i113 1
+R6
+R7
+R8
+vt1a_fs_pwm_bdf
+R1
+!i10b 1
+!s100 BzDROZiez6483=A91SzkV2
+R2
+IU?kEfF1ZdfhSfLW>0hH<a3
+R3
+R0
+w1728015812
+8D:/e-yantra/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v
+FD:/e-yantra/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v
+!i122 0
+L0 20 35
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/e-yantra/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/e-yantra/t1a_fs_pwm/code|D:/e-yantra/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v|
+!i113 1
+R6
+R7
+R8
+vtb
+R1
+!i10b 1
+!s100 =jSl53o6MIUkOM41K5DW53
+R2
+ICl1278V^d:am5]FfB=C@?3
+R3
+R0
+w1721891708
+8D:/e-yantra/t1a_fs_pwm/.test/tb.v
+FD:/e-yantra/t1a_fs_pwm/.test/tb.v
+!i122 3
+L0 4 97
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/e-yantra/t1a_fs_pwm/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/e-yantra/t1a_fs_pwm/.test|D:/e-yantra/t1a_fs_pwm/.test/tb.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+D:/e-yantra/t1a_fs_pwm/.test
+R8
