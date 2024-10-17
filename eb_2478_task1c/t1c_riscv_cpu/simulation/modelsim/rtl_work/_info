@@ -1,0 +1,395 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/simulation/modelsim
+vadder
+Z1 !s110 1729031925
+!i10b 1
+!s100 jXE67fZjiCj2W4l?`i:H?0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I=^AYTA2?k08:9;R6MVJfD1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1729001402
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/adder.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/adder.v
+!i122 13
+L0 4 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1729031924.000000
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/adder.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work +incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components
+Z9 tCvgOpt 0
+valu
+Z10 !s110 1729031924
+!i10b 1
+!s100 hDKPzCOf9O>Bc0CFg_;8n2
+R2
+IFYJf0<6;>EI2hV<k^?;ge1
+R3
+R0
+Z11 w1729031827
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu.v
+!i122 12
+L0 4 47
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu.v|
+!i113 1
+R7
+R8
+R9
+valu_decoder
+R10
+!i10b 1
+!s100 zMDVXF5i2]FEOOhUUEmo?3
+R2
+IKb7S2UlFJAgoZD3<LVYHo0
+R3
+R0
+w1729028736
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu_decoder.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu_decoder.v
+!i122 11
+L0 4 38
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/alu_decoder.v|
+!i113 1
+R7
+R8
+R9
+vcontroller
+R10
+!i10b 1
+!s100 ZjhHn4NTKY:^PzZF=h4i32
+R2
+IG02CD82ZmSdgM3NWCGgKz1
+R3
+R0
+w1729031829
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/controller.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/controller.v
+!i122 10
+Z12 L0 4 25
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/controller.v|
+!i113 1
+R7
+R8
+R9
+vdata_mem
+Z13 !s110 1729031923
+!i10b 1
+!s100 A0J5UglClU_Gf23hnNNhX1
+R2
+IbN@7J_zn;PbEn8MCn7bGd1
+R3
+R0
+Z14 w1729001401
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/data_mem.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/data_mem.v
+!i122 2
+L0 4 85
+R5
+r1
+!s85 0
+31
+Z15 !s108 1729031923.000000
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/data_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/data_mem.v|
+!i113 1
+R7
+Z16 !s92 -vlog01compat -work work +incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code
+R9
+vdatapath
+R10
+!i10b 1
+!s100 kM9HNIH@EhR@mnni<84L:2
+R2
+IhdZ^2PQF8nWX`D:b:XRd02
+R3
+R0
+w1729031828
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/datapath.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/datapath.v
+!i122 9
+L0 3 46
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/datapath.v|
+!i113 1
+R7
+R8
+R9
+vimm_extend
+R10
+!i10b 1
+!s100 KCY0HN8a_SDDT@o^3341e2
+R2
+I1UPM@AN6hYZ<kemk`oi@]3
+R3
+R0
+R4
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/imm_extend.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/imm_extend.v
+!i122 8
+L0 3 21
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/imm_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/imm_extend.v|
+!i113 1
+R7
+R8
+R9
+vinstr_mem
+R1
+!i10b 1
+!s100 RIi[W0[@?N=829cQA`0a13
+R2
+I<_C3Z>Y4hVc830`BTJVDJ2
+R3
+R0
+R4
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/instr_mem.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/instr_mem.v
+!i122 14
+L0 5 20
+R5
+r1
+!s85 0
+31
+Z17 !s108 1729031925.000000
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/instr_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/instr_mem.v|
+!i113 1
+R7
+R16
+R9
+vmain_decoder
+R10
+!i10b 1
+!s100 DU14Dfi8jo4R64cHnIbCA0
+R2
+I<fB4b`8ci9^bhkYIjnM7`0
+R3
+R0
+w1729031865
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/main_decoder.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/main_decoder.v
+!i122 7
+L0 4 48
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/main_decoder.v|
+!i113 1
+R7
+R8
+R9
+vmux2
+R10
+!i10b 1
+!s100 O<Ld`3jD6QL?6PIEe_QAk1
+R2
+IS^Jm0Kd;WKO@Y>IFF7B_?2
+R3
+R0
+R4
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux2.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux2.v
+!i122 6
+Z18 L0 4 9
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux2.v|
+!i113 1
+R7
+R8
+R9
+vmux4
+R13
+!i10b 1
+!s100 V4YdM>hK^I8CMb?cH8Cej3
+R2
+IhA]bXS<J[ndU@a=;`C_`L2
+R3
+R0
+R4
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux4.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux4.v
+!i122 5
+R18
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/mux4.v|
+!i113 1
+R7
+R8
+R9
+vreg_file
+R13
+!i10b 1
+!s100 z2]InGk0[gjzdlc7_WWYI1
+R2
+IJ?l`1<FhJMYD382V^W8Hi1
+R3
+R0
+R4
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reg_file.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reg_file.v
+!i122 4
+L0 8 27
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reg_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reg_file.v|
+!i113 1
+R7
+R8
+R9
+vreset_ff
+R13
+!i10b 1
+!s100 c1I5T0L8]]ZK0dn2hg0_F0
+R2
+I:a0BXO:KZT[TG_oE?`aEh1
+R3
+R0
+R4
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reset_ff.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reset_ff.v
+!i122 3
+L0 4 12
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reset_ff.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/components/reset_ff.v|
+!i113 1
+R7
+R8
+R9
+vriscv_cpu
+R13
+!i10b 1
+!s100 L^=]m45NM4IHd72]>oTD73
+R2
+IOD_4z9=Jl;Aaeg@R?gB:12
+R3
+R0
+R11
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/riscv_cpu.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/riscv_cpu.v
+!i122 1
+L0 4 23
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/riscv_cpu.v|
+!i113 1
+R7
+R16
+R9
+vt1c_riscv_cpu
+R13
+!i10b 1
+!s100 _06EPmW0mYWo69XjmhmhY3
+R2
+Ioc>WNC6UE>@JnSgYF6YC?2
+R3
+R0
+R4
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/t1c_riscv_cpu.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/t1c_riscv_cpu.v
+!i122 0
+R12
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/t1c_riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/code/t1c_riscv_cpu.v|
+!i113 1
+R7
+R16
+R9
+vtb
+R1
+!i10b 1
+!s100 3lMj:0B^XkCNJJiBLB9Bo0
+R2
+Ii`WB^k67<FTlz[`P>g[Rg1
+R3
+R0
+R14
+8C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/.test/tb.v
+FC:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/.test/tb.v
+!i122 15
+L0 3 532
+R5
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/.test|C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/.test/tb.v|
+!i113 1
+R7
+!s92 -vlog01compat -work work +incdir+C:/Users/shiva/Downloads/Desktop/t1c_riscv_cpu/t1c_riscv_cpu/.test
+R9
