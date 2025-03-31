@@ -10,51 +10,51 @@
 # Copying C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
 # Modifying modelsim.ini
 # 
-# vlog -vlog01compat -work work +incdir+D:/e-yantra/t1a_fs_pwm/code {D:/e-yantra/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v}
+# vlog -vlog01compat -work work +incdir+D:/e-yantra\ submissions/eb_2478_task1a/t1a_fs_pwm/code {D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 09:55:39 on Oct 04,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/e-yantra/t1a_fs_pwm/code" D:/e-yantra/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v 
+# Start time: 01:15:16 on Feb 05,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/code" D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v 
 # -- Compiling module t1a_fs_pwm_bdf
 # 
 # Top level modules:
 # 	t1a_fs_pwm_bdf
-# End time: 09:55:39 on Oct 04,2024, Elapsed time: 0:00:00
+# End time: 01:15:16 on Feb 05,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+D:/e-yantra/t1a_fs_pwm/code {D:/e-yantra/t1a_fs_pwm/code/pwm_generator.v}
+# vlog -vlog01compat -work work +incdir+D:/e-yantra\ submissions/eb_2478_task1a/t1a_fs_pwm/code {D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/code/pwm_generator.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 09:55:39 on Oct 04,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/e-yantra/t1a_fs_pwm/code" D:/e-yantra/t1a_fs_pwm/code/pwm_generator.v 
+# Start time: 01:15:16 on Feb 05,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/code" D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/code/pwm_generator.v 
 # -- Compiling module pwm_generator
 # 
 # Top level modules:
 # 	pwm_generator
-# End time: 09:55:39 on Oct 04,2024, Elapsed time: 0:00:00
+# End time: 01:15:16 on Feb 05,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+D:/e-yantra/t1a_fs_pwm/code {D:/e-yantra/t1a_fs_pwm/code/frequency_scaler.v}
+# vlog -vlog01compat -work work +incdir+D:/e-yantra\ submissions/eb_2478_task1a/t1a_fs_pwm/code {D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/code/frequency_scaler.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 09:55:39 on Oct 04,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/e-yantra/t1a_fs_pwm/code" D:/e-yantra/t1a_fs_pwm/code/frequency_scaler.v 
+# Start time: 01:15:16 on Feb 05,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/code" D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/code/frequency_scaler.v 
 # -- Compiling module frequency_scaler
 # 
 # Top level modules:
 # 	frequency_scaler
-# End time: 09:55:39 on Oct 04,2024, Elapsed time: 0:00:00
+# End time: 01:15:16 on Feb 05,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
-# vlog -vlog01compat -work work +incdir+D:/e-yantra/t1a_fs_pwm/.test {D:/e-yantra/t1a_fs_pwm/.test/tb.v}
+# vlog -vlog01compat -work work +incdir+D:/e-yantra\ submissions/eb_2478_task1a/t1a_fs_pwm/.test {D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/.test/tb.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 09:55:39 on Oct 04,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/e-yantra/t1a_fs_pwm/.test" D:/e-yantra/t1a_fs_pwm/.test/tb.v 
+# Start time: 01:15:16 on Feb 05,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/.test" D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/.test/tb.v 
 # -- Compiling module tb
 # 
 # Top level modules:
 # 	tb
-# End time: 09:55:39 on Oct 04,2024, Elapsed time: 0:00:00
+# End time: 01:15:16 on Feb 05,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  tb
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" tb 
-# Start time: 09:55:39 on Oct 04,2024
+# Start time: 01:15:17 on Feb 05,2025
 # Loading work.tb
 # Loading work.t1a_fs_pwm_bdf
 # Loading work.frequency_scaler
@@ -67,6 +67,5 @@
 # .main_pane.objects.interior.cs.body.tree
 # run 20 ms
 # No errors encountered, congratulations!
-write format wave -window .main_pane.wave.interior.cs.body.pw.wf D:/e-yantra/t1a_fs_pwm/simulation/modelsim/wave.do
-# End time: 09:56:35 on Oct 04,2024, Elapsed time: 0:00:56
+# End time: 01:17:41 on Feb 05,2025, Elapsed time: 0:02:24
 # Errors: 0, Warnings: 0

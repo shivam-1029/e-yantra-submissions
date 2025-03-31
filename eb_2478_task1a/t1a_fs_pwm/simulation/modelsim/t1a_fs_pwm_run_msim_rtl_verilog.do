@@ -5,11 +5,11 @@ if {[file exists rtl_work]} {
 vlib rtl_work
 vmap work rtl_work
 
-vlog -vlog01compat -work work +incdir+D:/e-yantra/t1a_fs_pwm/code {D:/e-yantra/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v}
-vlog -vlog01compat -work work +incdir+D:/e-yantra/t1a_fs_pwm/code {D:/e-yantra/t1a_fs_pwm/code/pwm_generator.v}
-vlog -vlog01compat -work work +incdir+D:/e-yantra/t1a_fs_pwm/code {D:/e-yantra/t1a_fs_pwm/code/frequency_scaler.v}
+vlog -vlog01compat -work work +incdir+D:/e-yantra\ submissions/eb_2478_task1a/t1a_fs_pwm/code {D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/code/t1a_fs_pwm_bdf.v}
+vlog -vlog01compat -work work +incdir+D:/e-yantra\ submissions/eb_2478_task1a/t1a_fs_pwm/code {D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/code/pwm_generator.v}
+vlog -vlog01compat -work work +incdir+D:/e-yantra\ submissions/eb_2478_task1a/t1a_fs_pwm/code {D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/code/frequency_scaler.v}
 
-vlog -vlog01compat -work work +incdir+D:/e-yantra/t1a_fs_pwm/.test {D:/e-yantra/t1a_fs_pwm/.test/tb.v}
+vlog -vlog01compat -work work +incdir+D:/e-yantra\ submissions/eb_2478_task1a/t1a_fs_pwm/.test {D:/e-yantra submissions/eb_2478_task1a/t1a_fs_pwm/.test/tb.v}
 
 vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  tb
 

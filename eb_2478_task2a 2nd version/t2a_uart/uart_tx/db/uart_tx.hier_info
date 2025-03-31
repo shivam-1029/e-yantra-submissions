@@ -1,0 +1,43 @@
+|uart_tx
+clk_3125 => baud_cnt[0].CLK
+clk_3125 => baud_cnt[1].CLK
+clk_3125 => baud_cnt[2].CLK
+clk_3125 => baud_cnt[3].CLK
+clk_3125 => tx~reg0.CLK
+clk_3125 => tx_done~reg0.CLK
+clk_3125 => parity_bit.CLK
+clk_3125 => state~13.DATAIN
+parity_type => parity_bit.OUTPUTSELECT
+tx_start => tx.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+data[0] => WideXor0.IN0
+data[0] => tx.DATAB
+data[1] => WideXor0.IN1
+data[1] => tx.DATAB
+data[2] => WideXor0.IN2
+data[2] => tx.DATAB
+data[3] => WideXor0.IN3
+data[3] => tx.DATAB
+data[4] => WideXor0.IN4
+data[4] => tx.DATAB
+data[5] => WideXor0.IN5
+data[5] => tx.DATAB
+data[6] => WideXor0.IN6
+data[6] => tx.DATAB
+data[7] => WideXor0.IN7
+data[7] => tx.DATAB
+tx << tx~reg0.DB_MAX_OUTPUT_PORT_TYPE
+tx_done << tx_done~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

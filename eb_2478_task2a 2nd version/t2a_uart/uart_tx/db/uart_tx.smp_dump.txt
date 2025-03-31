@@ -1,0 +1,15 @@
+
+State Machine - |uart_tx|state
+Name state.st_idle state.stop_st state.parity_st state.td7 state.td6 state.td5 state.td4 state.td3 state.td2 state.td1 state.td0 state.0000 
+state.0000 0 0 0 0 0 0 0 0 0 0 0 0 
+state.td0 0 0 0 0 0 0 0 0 0 0 1 1 
+state.td1 0 0 0 0 0 0 0 0 0 1 0 1 
+state.td2 0 0 0 0 0 0 0 0 1 0 0 1 
+state.td3 0 0 0 0 0 0 0 1 0 0 0 1 
+state.td4 0 0 0 0 0 0 1 0 0 0 0 1 
+state.td5 0 0 0 0 0 1 0 0 0 0 0 1 
+state.td6 0 0 0 0 1 0 0 0 0 0 0 1 
+state.td7 0 0 0 1 0 0 0 0 0 0 0 1 
+state.parity_st 0 0 1 0 0 0 0 0 0 0 0 1 
+state.stop_st 0 1 0 0 0 0 0 0 0 0 0 1 
+state.st_idle 1 0 0 0 0 0 0 0 0 0 0 1 

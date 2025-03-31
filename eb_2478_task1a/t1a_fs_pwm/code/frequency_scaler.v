@@ -1,16 +1,4 @@
-// EcoMender Bot : Task 1A : Frequency Scaling
-/*
-Instructions
--------------------
-Students are not allowed to make any changes in the Module declaration.
-This file is used to design a module which will scale down the 50MHz Clock Frequency to 1MHz.
 
-Recommended Quartus Version : 20.1
-The submitted project file must be 20.1 compatible as the evaluation will be done on Quartus Prime Lite 20.1.
-
-Warning: The error due to compatibility will not be entertained.
--------------------
-*/
 
 //Frequency Scaling
 //Inputs : clk_50MHz
@@ -26,7 +14,6 @@ initial begin
     clk_1MHz = 1;
 end
 
-//////////////////DO NOT MAKE ANY CHANGES ABOVE THIS LINE //////////////////
 
 // Counter to track the clock cycles
     reg [4:0] counter = -1; // 5-bit counter, since 2^5 = 32 > 24
@@ -39,6 +26,5 @@ end
         end
     end
 
-//////////////////DO NOT MAKE ANY CHANGES BELOW THIS LINE //////////////////
 
 endmodule
